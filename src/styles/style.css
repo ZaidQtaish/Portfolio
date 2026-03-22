@@ -255,6 +255,14 @@ html::-webkit-scrollbar {
     padding: 12px;
 }
 
+.in-progress:first-of-type {
+    box-shadow: #2dffd1 0px 0px 8px 1px;
+}
+
+.in-progress:first-of-type:hover {
+    box-shadow: #2eb89a 0px 0px 12px 5px !important;
+}
+
 .in-progress:hover {
     background-color: #47556933 !important;
     box-shadow: #574fee 0px 0px 12px 5px !important;
