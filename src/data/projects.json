@@ -16,7 +16,7 @@
     "title": "UniVault JU",
     "description": "The central knowledge hub for JU Aqaba students. Sharing past papers, summaries, and academic tools to empower the student community. ",
     "image": "/UJ.svg",
-    "link": "https://github.com/IEEE-JU-AQ/univault-ju",
+    "link": "https://univault-ju.app/",
     "inProgress": true,
     "skills": [
       "Next.js",
