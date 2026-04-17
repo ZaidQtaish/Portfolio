@@ -1,5 +1,5 @@
 import ExperienceCard from "./ExperienceCard"
-import experienceList from "../data/experience.json"
+import experienceList from "../data/experiences.json"
 
 export default function Experience() {
   return (
