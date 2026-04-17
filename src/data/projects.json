@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": 7,
+    "title": "PrintForge",
+    "description": "A 3D printing file marketplace UI built with Next.js and Tailwind CSS. Users can browse, search, and filter 3D printing files in a responsive design.",
+    "image": "/printforge.png",
+    "link": "https://printforge-zaid.vercel.app/",
+    "inProgress": false,
+    "skills": [
+      "Next.js",
+      "React",
+      "Tailwind"
+    ]
+  },
+  {
     "id": 6,
     "title": "Url Shortener",
     "description": "Fullstack project built with Express.js and MongoDB. It efficiently shortens URLs for easier sharing and management. Built with a responsive design to work across all devices.",
@@ -78,17 +91,16 @@
       "jQuery"
     ]
   },
-    {
-    "id": 7,
-    "title": "PrintForge",
-    "description": "A 3D printing file marketplace UI built with Next.js and Tailwind CSS. Users can browse, search, and filter 3D printing files in a responsive design.",
-    "image": "/printforge.png",
-    "link": "https://printforge-zaid.vercel.app/",
+  {
+    "id": 11,
+    "title": "Netflix Clone",
+    "description": "A React Netflix landing page clone with hero banner, feature highlights, and responsive design. Uses reusable components for sections and call-to-action buttons.",
+    "image": "/netflix.png",
+    "link": "https://zaidqtaish.github.io/netflix-clone/",
     "inProgress": false,
     "skills": [
-      "Next.js",
       "React",
-      "Tailwind"
+      "Bootstrap"
     ]
   },
   {
@@ -125,18 +137,6 @@
     "skills": [
       "React",
       "Mistral API"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Netflix Clone",
-    "description": "A React Netflix landing page clone with hero banner, feature highlights, and responsive design. Uses reusable components for sections and call-to-action buttons.",
-    "image": "/netflix.png",
-    "link": "https://zaidqtaish.github.io/netflix-clone/",
-    "inProgress": false,
-    "skills": [
-      "React",
-      "Bootstrap"
     ]
   }
 ]
